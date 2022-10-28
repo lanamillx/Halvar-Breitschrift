@@ -1,0 +1,952 @@
+body, html
+{
+  background-color: #FFFFFF;
+  width: 1290px;
+  margin: 0;
+  display: block;
+}
+.punktir1 {
+  position: relative;
+  left: 44px;
+  top: 46px;
+}
+.fontname {
+  position: relative;
+  left: 115px;
+  top: 115px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 148px;
+  display: flex;
+
+  color: #000000;
+}
+.star_1 {
+  position: absolute;
+  width: 231.21px;
+  height: 231.21px;
+  left: 540.38px;
+  top: 126.93px;
+  z-index: 1;
+}
+.eightyone {
+  position: absolute;
+  left: 620.43px;
+  top: 190px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 69px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  z-index: 20;
+  transform: rotate(17.39deg);
+
+  color: #000000;
+}
+.stylee {
+  position: absolute;
+  left: 593.43px;
+  top: 250px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  z-index: 20;
+  transform: rotate(17.39deg);
+
+  color: #000000;
+}
+.tornbill1 {
+  position: relative;
+  left: 10px;
+  top: 102px;
+}
+.punktir1_3 {
+  position: absolute;
+  width: 650px;
+  height: 165px;
+  left: 342px;
+  top: 102px;
+}
+.rickroll1 {
+  position: absolute;
+  top: 130px;
+  right: 100px;
+}
+.combini_pic {
+  position: relative;
+  left: 10px;
+  top: 130px;
+  z-index: 1;
+}
+.supermarketname {
+  position: absolute;
+  left: 421px;
+  top: 340px;
+  z-index: 5;
+
+  font-family: "Halvar Breitschrift";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+}
+.bill2 {
+  position: relative;
+  width: 1220px;
+  height: 576.2px;
+  left: 15px;
+  top: 143px;
+  z-index: 1;
+}
+.about {
+  position: absolute;
+  left: 105px;
+  top: 235px;
+  z-index: 5;
+
+  font-family: 'Halvar Breit Bd SuSlanted';
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.description {
+  position: absolute;
+  left: 107px;
+  top: 340px;
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.a_letter {
+  position: absolute;
+  left: 774px;
+  top: 150px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 250;
+  font-size: 250px;
+  line-height: 290px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.d_letter {
+  position: absolute;
+  left: 944.63px;
+  top: 342px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 250;
+  font-size: 250px;
+  line-height: 290px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.circle1 {
+  position: absolute;
+  width: 105.19px;
+  height: 105.19px;
+  left: 879px;
+  top: 323px;
+}
+.circle2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 918px;
+  top: 497px;
+}
+.hairline {
+  position: relative;
+  left: 66px;
+  top: 340px;
+
+  font-family: 'Halvar Breit Hl';
+  font-weight: 100;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #000000;
+}
+.extrathin {
+  position: relative;
+  left: 66px;
+  top: 360px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.thin {
+  position: relative;
+  left: 66px;
+  top: 380px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 250;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.light {
+  position: relative;
+  left: 66px;
+  top: 400px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.regular {
+  position: relative;
+  left: 66px;
+  top: 420px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.medium {
+  position: relative;
+  left: 66px;
+  top: 440px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.bold {
+  position: relative;
+  left: 66px;
+  top: 460px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.extrabold {
+  position: relative;
+  left: 66px;
+  top: 480px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.black {
+  position: relative;
+  left: 66px;
+  top: 500px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.hairline_sl {
+  position: absolute;
+  left: 487px;
+  top: 2006px;
+
+  font-family: 'Halvar Breit Hl Slanted';
+  font-weight: 100;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #000000;
+}
+.extrathin_sl {
+  position: relative;
+  left: 487px;
+  top: -89px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.thin_sl {
+  position: relative;
+  left: 487px;
+  top: -69px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 250;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.light_sl {
+  position: relative;
+  left: 487px;
+  top: -49px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.regular_sl {
+  position: relative;
+  left: 487px;
+  top: -29px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.medium_sl {
+  position: relative;
+  left: 487px;
+  top: -9px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.bold_sl {
+  position: relative;
+  left: 487px;
+  top: 11px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.extrabold_sl {
+  position: relative;
+  left: 487px;
+  top: 31px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.black_sl {
+  position: relative;
+  left: 487px;
+  top: 51px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.hairline_su_sl {
+  position: absolute;
+  left: 908px;
+  top: 2006px;
+
+  font-family: 'Halvar Breit Hl SuSlanted';
+  font-style: italic;
+  font-weight: 100;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.extrathin_su_sl {
+  position: relative;
+  left: 908px;
+  top: -541px;
+
+  font-family: 'Halvar Breit XTh SuSlanted';
+  font-style: italic;
+  font-weight: 200;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.thin_su_sl {
+  position: relative;
+  left: 900px;
+  top: -521px;
+
+  font-family: 'Halvar Breit Th SuSlanted';
+  font-style: italic;
+  font-weight: 250;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.light_su_sl {
+  position: relative;
+  left: 908px;
+  top: -501px;
+
+  font-family: 'Halvar Breit Lt SuSlanted';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.regular_su_sl {
+  position: relative;
+  left: 908px;
+  top: -481px;
+
+  font-family: 'Halvar Breit Rg SuSlanted';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.medium_su_sl {
+  position: relative;
+  left: 908px;
+  top: -461px;
+
+  font-family: 'Halvar Breit Md SuSlanted';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.bold_su_sl {
+  position: relative;
+  left: 908px;
+  top: -441px;
+
+  font-family: 'Halvar Breit Bd SuSlanted';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.extrabold_su_sl {
+  position: relative;
+  left: 908px;
+  top: -421px;
+
+  font-family: 'Halvar Breit XBd SuSlanted';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.black_su_sl {
+  position: relative;
+  left: 908px;
+  top: -401px;
+
+  font-family: 'Halvar Breit Blk SuSlanted';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.star_2 {
+  position: relative;
+  width: 219.23px;
+  height: 219.23px;
+  left: 718px;
+  top: -879px;
+}
+.twentyseven {
+  position: absolute;
+  width: 99px;
+  height: 101px;
+  left: 787px;
+  top: 2227px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 63px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+
+  transform: rotate(17.39deg);
+}
+.nachertaniy {
+  position: absolute;
+  width: 99px;
+  height: 101px;
+  left: 781px;
+  top: 2277px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+
+  transform: rotate(17.39deg);
+}
+.juice_can_ {
+  position: absolute;
+  left: 40px;
+  top: 2545px;
+}
+.juice_name {
+  position: absolute;
+  left: 342px;
+  top: 3118px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 300px;
+  line-height: 347px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(-42.71deg);
+}
+.vinograd {
+  position: absolute;
+  left: 320px;
+  top: 3055px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 106px;
+  line-height: 123px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(47.29deg);
+}
+.juice_info {
+  position: absolute;
+  left: 470px;
+  top: 3362px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  transform: rotate(-42.71deg);
+}
+.font_desc2 {
+  position: absolute;
+  left: 700px;
+  top: 2785px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.star_3 {
+  position: relative;
+  left: 810px;
+  top: -127px;
+  }
+.twelve {
+  position: absolute;
+  left: 86px;
+  top: 3664px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 383.886px;
+  line-height: 445px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.slanted_text {
+  position: absolute;
+  left: 295px;
+  top: 4035px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.twentyfour {
+  position: absolute;
+  left: 576px;
+  top: 4112px;
+
+  font-family: 'Halvar Breit Bd SuSlanted';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 379.676px;
+  line-height: 440px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.su_slanted_text {
+  position: absolute;
+  left: 629px;
+  top: 4132px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.font_desc3 {
+  position: relative;
+  left: 85px;
+  top: 70px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.cyrillic {
+  position: relative;
+  left: 482px;
+  top: 150px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 46px;
+
+  color: #000000;
+}
+.cyrillic_ {
+  position: relative;
+  left: 191px;
+  top: 180px;
+}
+.latin {
+  position: absolute;
+  left: 498px;
+  top: 5222px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 46px;
+
+  color: #000000;
+}
+.latin_ {
+  position: relative;
+  left: 191px;
+  top: 290px;
+}
+.rad_grad {
+  position: absolute;
+  left: 0px;
+  top: 4673px;
+}
+.chips_pack {
+  position: absolute;
+  left: 55px;
+  top: 6077px;
+}
+.chips_ {
+  position: absolute;
+  left: 190px;
+  top: 6312px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 96px;
+  line-height: 111px;
+
+  color: #FFFFFF;
+
+  transform: rotate(-28deg);
+}
+.chipsinki {
+  position: absolute;
+  width: 257px;
+  height: 250px;
+  left: 332px;
+  top: 6422px;
+  transform: rotate(-109.41deg);
+}
+.star_4 {
+  position: absolute;
+  width: 213px;
+  height: 213px;
+  left: 580px;
+  top: 6523px;
+}
+.matches_block {
+  position: absolute;
+  left: 715px;
+  top: 6131px;
+}
+.spichki {
+  position: absolute;
+  left: 862px;
+  top: 6227px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 58px;
+  line-height: 67px;
+
+  color: #000000;
+
+  transform: rotate(-27deg);
+}
+.amount {
+  position: absolute;
+  width: 86px;
+  height: 26px;
+  left: 895px;
+  top: 6329px;
+
+  font-family: 'Halvar Breit Md SuSlanted';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+  transform: rotate(-27deg);
+}
+.myname {
+  position: absolute;
+  left: 30px;
+  top: 7060px;
+  padding-bottom: 60px;
+
+  font-family: 'Halvar Breitschrift';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 34px;
+}
+.hselogo {
+  position: absolute;
+  left: 700px;
+  top: 7000px;
+  width: 400px;
+}
